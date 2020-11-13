@@ -1,6 +1,6 @@
 # Surface Water Availability for Agricultural Water Users in Sacramento Valley
 
-### Alex Ehrens
+## Alex Ehrens
 ### November 12, 2020
 
 Groundwater basins in the Sacramento Valley are currently in the process of preparing management plans to meet the January 2022 deadline mandated by the [Sustainable Groundwater Management Act (SGMA)](https://water.ca.gov/Programs/Groundwater-Management/SGMA-Groundwater-Management). Throughout this process, basin managers must make important decisions on which approaches should be taken to achieve sustainable groundwater use and avoid the undesirable results of overdraft.
