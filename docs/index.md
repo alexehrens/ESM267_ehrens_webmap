@@ -1,5 +1,8 @@
 # Surface Water Availability for Agricultural Water Users in Sacramento Valley
 
+### Alex Ehrens
+### November 12, 2020
+
 Groundwater basins in the Sacramento Valley are currently in the process of preparing management plans to meet the January 2022 deadline mandated by the [Sustainable Groundwater Management Act (SGMA)](https://water.ca.gov/Programs/Groundwater-Management/SGMA-Groundwater-Management). Throughout this process, basin managers must make important decisions on which approaches should be taken to achieve sustainable groundwater use and avoid the undesirable results of overdraft.
 
 A significant approach for ending overdraft is demand management, which requires groundwater users to cut back on pumping. For agricultural users, less groundwater supply means fewer acres that can be irrigated – unless they have access to surface water. Surface water is a valuable asset as a substitutable supply to cope with groundwater reductions. Understanding where users with surface water – and those without – are located is important for understanding which agricultural lands are vulnerable to being taken permanently out of production to meet SGMA demand goals.
@@ -11,3 +14,6 @@ The map below shows surface water availability per acre of irrigated agriculture
 
 <iframe src="asst2/index.html" height=768 width=1024></iframe>
 
+In the Sacramento Valley, 62% of all agricultural users fall below 3 af/ac and may need to supplement their surface water with at least some groundwater. These lands are potentially more vulnerable to going out of production due to pumping cutbacks than those with more abundant surface water supply.
+
+Given the variability of surface water supplies across Sacramento Valley, it makes sense that users with surface water should be able to transfer supplies to those without surface water. Facilitating transfers between these users would ideally help minimize the amount of agricultural land required to go out of production due to SGMA. The feasibility of making these transfers depends on reducing barriers and lowering transaction costs to encourage agricultural users with water to transfer to those without. PPIC researchers are currently working on addressing this question as part of the Water Markets and SGMA project. 
