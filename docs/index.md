@@ -2,5 +2,5 @@
 ## ESM267_Ehrens_webmap
 
 
-<iframe src="index.html" height=768 width=1024></iframe>
+<iframe src="asst2/index.html" height=768 width=1024></iframe>
 
